@@ -5,13 +5,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     .video-container {
-      position: relative;
-      width: 100 %;
-      max-width: 800 px;
-      margin: 0 auto;
-      padding-bottom: 56.25%;
-      height: 0;
-      overflow: hidden;
+    display: flex
+    justify-content: center;
+    align-items: center;    
+    margin: 50px 0;
     }
 
     .video-container iframe {
