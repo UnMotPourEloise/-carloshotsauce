@@ -1,11 +1,9 @@
-
-
+* 
+  
 <head>
-  <meta charset="UTF-8">
+<meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-
- 
     .video-container {
       position: relative;
       width: 100%;
@@ -25,42 +23,15 @@
       border: 0;
     }
 
-</head>
+
 
 body {
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, sans-serif; 
-  background-size: cover; 
-  background-color: #c81e1e;
-  background-repeat: no-repeat;
-  height: 100 vh;                
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  text-align: right;
-  width: 100%;
-  height: auto;
-  display: block;
-  object-fit: cover;
-  object-position: center;
+    background-color: #ba1616;
+    text-align: center;
+     padding-left: 20px;
+     padding-right: 20px;
 }
 
-
- h1 {
-  font-size: 7 rem;
-  color: rgb(85, 150, 99);
-  position: absolute;
-  top: 600 px ; 
-  left: 250 px; 
-}
-
-h2 {
-  font-size: 1rem ;
-  color: aliceblue;
-  position: absolute;
-  top: 10 px;
-  left: 30 px ;
-
-  }
 
 
 
